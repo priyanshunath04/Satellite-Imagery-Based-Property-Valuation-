@@ -63,8 +63,10 @@ You should now see (venv) in your terminal prompt.
 
 Upgrade pip and install all required packages:
 
+````bash
 pip install --upgrade pip
 pip install -r requirements.txt
+````
 
 ---
 
